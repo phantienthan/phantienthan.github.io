@@ -5,7 +5,7 @@ const textConfig = {
   text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
   text5: "Cậu mơ à ☻",
   text6: "Yêu ơi là iuuu ♥",
-  text7: "lí do cậu thích tớ đi :v",
+  text7: "Nói cho tới lý do vì sao cậu yêu tớ đii ♥",
   text8: "Gửi cho tớ <3",
   text9: "Vì cậu đẹp trai vãi nều",
   text10: "Tớ biết mà :D Yêu cậu 300.000",
@@ -114,7 +114,7 @@ $(document).ready(function () {
       html: true,
       width: 900,
       padding: "3em",
-      html: "<input type='text' class='form-control' id='txtReason'  placeholder='viết lý do cậu thích tớ'>",
+      html: "<input type='text' class='form-control' id='txtReason'  placeholder=''>",
       background: '#fff url("img/iput-bg.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
