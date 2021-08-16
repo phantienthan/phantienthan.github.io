@@ -5,14 +5,14 @@
   #no{
     position: absolute;
     display: inline-block;
-    left: 35%; 
+    left: 30%; 
     top: 40vh;
     -webkit-transition: all 0.1s ease-out;
   }
   #yes{
     position: absolute;
     display: inline-block;
-    left: 70%; 
+    left: 58%; 
     top: 40vh;
     -webkit-transition: all 0.3s ease-out;
   }
@@ -79,8 +79,5 @@ header h4 {
     padding: 3px;
     -webkit-transition: all 0.3s ease-out;
   }
-.swal2-image{
-  border-radius: 50%;
 
-}
 }
