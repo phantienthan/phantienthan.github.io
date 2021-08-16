@@ -38,7 +38,7 @@ $(document).ready(function () {
       imageUrl: "img/cuteCat.jpg",
       imageWidth: 300,
       imageHeight: 300,
-      imageborder-radius:50px,
+      border-radius:50%,
       background: '#fff url("img/iput-bg.jpg")',
       imageAlt: "Custom image",
     }).then(function () {
