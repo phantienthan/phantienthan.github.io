@@ -58,6 +58,12 @@ $(document).ready(function () {
     $("#yes").css("left", leftNo);
     $("#yes").css("top", topNO);
   }
+  // switch button position
+  function switchButton() {
+    var audio = new Audio("sound/nhacnen.mp3");
+    audio.play();
+    
+  }
   // move random button póition
   function moveButton() {
     var audio = new Audio("sound/Swish1.mp3");
